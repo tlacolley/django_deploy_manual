@@ -47,7 +47,7 @@ DEBUG = False
 Dans le extra_settings.py:
 
 ```
-ALLOWED_HOST = ["XXX.XXX.XXX.XXX","nom_de_domaine.tld"]
+ALLOWED_HOSTS = ["XXX.XXX.XXX.XXX","nom_de_domaine.tld"]
 ```
 
 Synchro de media depuis le PC de dev:
